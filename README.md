@@ -34,9 +34,25 @@ npm start
 edit autoexec.bat
 ```
  -->
-## 사용 예제
+## 화면 예제
 
-<img width="1430" alt="스크린샷 2022-05-13 오후 3 00 01" src="https://user-images.githubusercontent.com/73530944/168220660-3df13b66-54d9-49b3-a6ae-98d9e18bd767.png">
+
+**메인 화면**
+
+<img width="1430" alt="메인화면" src="https://user-images.githubusercontent.com/77225982/184817889-a317858f-861f-4e47-9c6c-8bbe873cc65d.png">
+
+---
+
+**미니홈피 화면**
+
+<img width="1430" alt="미니홈피 화면" src="https://user-images.githubusercontent.com/77225982/184817884-2e2f20b1-b7b2-4af5-ac38-e66edc0dfd5c.png">
+
+---
+
+**블로그 화면**
+
+<img width="1430" alt="블로그화면" src="https://user-images.githubusercontent.com/77225982/184817865-8f133847-dc75-4116-9f79-d4a87137ee7d.png">
+
 
 <!-- 
 스크린 샷과 코드 예제를 통해 사용 방법을 자세히 설명합니다.
